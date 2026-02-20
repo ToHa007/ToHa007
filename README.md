@@ -1,4 +1,4 @@
-# Hi, I'm Toha 👋
+# Hi, I'm MD. Nimur Rahaman Toha 👋
 
 🚀 Full-Stack Web Developer  
 💻 I build secure, scalable web applications using the MERN stack  
@@ -34,6 +34,8 @@
 - GitHub
 - VS Code
 - Firebase (Deployment)
+- Vercel (Deployment)
+- Netlify (Deployment)
 
 ---
 
@@ -84,7 +86,7 @@ I have built 13+ repositories covering:
 ## 📫 Contact Me
 
 - GitHub: https://github.com/ToHa007
-- Email: your-email@example.com
+- Email: mdtoha084@gmail.com
 
 ---
 

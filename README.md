@@ -10,9 +10,9 @@ I love transforming ideas into real-world applications and continuously learning
 
 ## 🚀 About Me
 
-- 🎓 **Student:** North South University (CSE) – 2nd Semester  
-- 💻 **Designation:** Full Stack Web Developer (MERN Stack)  
-- 🌱 Currently learning **Next.js & TypeScript**
+- 💻 **Designation:** Full Stack Web Developer (MERN Stack) 
+- 🎓 **Student:** North South University  – 2nd Semester  
+- 🌱 Currently learning **Next.js 
 - 🔧 Built multiple **Full Stack Applications with Authentication, CRUD Operations, APIs, and Stripe Payment Integration**
 - 👨‍💻 Portfolio Website  
 👉 https://euphonious-tiramisu-031113.netlify.app/

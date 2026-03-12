@@ -2,11 +2,9 @@
 <h3 align="center">Full Stack Web Developer | MERN Stack Enthusiast</h3>
 
 <p align="center">
-I am a passionate Full Stack Developer who enjoys building modern, scalable and user-friendly web applications.  
-I love turning ideas into real-world web applications using modern technologies.
+Passionate Full Stack Developer who enjoys building modern, scalable and user-friendly web applications using the MERN stack.  
+I love transforming ideas into real-world applications and continuously learning new technologies.
 </p>
-
-
 
 ---
 
@@ -14,10 +12,9 @@ I love turning ideas into real-world web applications using modern technologies.
 
 - 💻 Full Stack Developer (MERN Stack)
 - 🌱 Currently learning **Next.js & TypeScript**
-- 🔧 Experienced in building **Full Stack Applications with Authentication, CRUD Operations, APIs, and Stripe Payment Integration**
-- 🧠 Always improving my **problem solving and system design skills**
+- 🔧 Built multiple **Full Stack Applications with Authentication, CRUD Operations, APIs, and Stripe Payment Integration**
 - 👨‍💻 Portfolio Website  
-  👉 https://euphonious-tiramisu-031113.netlify.app/
+👉 https://euphonious-tiramisu-031113.netlify.app/
 
 ---
 
@@ -30,6 +27,7 @@ I love turning ideas into real-world web applications using modern technologies.
 ### 🌐 Connect With Me
 
 <p align="left">
+
 <a href="https://facebook.com/n r toha" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
 </a>
@@ -37,6 +35,7 @@ I love turning ideas into real-world web applications using modern technologies.
 <a href="https://instagram.com/n.r._toha" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
 </a>
+
 </p>
 
 ---
@@ -56,7 +55,7 @@ I love turning ideas into real-world web applications using modern technologies.
 ### Backend
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
 </p>
 
 ### Database
@@ -98,5 +97,5 @@ I love turning ideas into real-world web applications using modern technologies.
 ---
 
 <p align="center">
-⭐ From <b>Toha</b> – Building modern web experiences
+⭐ Building modern web experiences
 </p>

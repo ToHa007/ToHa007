@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Web Developer | MERN Stack Enthusiast</h3>
 
 <p align="center">
-Passionate Full Stack Developer who enjoys building modern, scalable and user-friendly web applications using the MERN stack.  
+Passionate Full Stack Developer who enjoys building modern, scalable and user-friendly web applications using the MERN stack.
 I love transforming ideas into real-world applications and continuously learning new technologies.
 </p>
 
@@ -55,7 +55,7 @@ I love transforming ideas into real-world applications and continuously learning
 ### Backend
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="80" height="40"/>
 </p>
 
 ### Database

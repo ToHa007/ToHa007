@@ -1,23 +1,104 @@
 <h1 align="center">Hi 👋, I'm MD. Nimur Rahaman Toha</h1>
-<h3 align="center">A passionate fullstack developer</h3>
+<h3 align="center">Full Stack Web Developer | MERN Stack Enthusiast</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=toha007" alt="toha007" /></a> </p>
-
-- 🌱 I’m currently learning **Next.JS,Typescript**
-
-- 👨‍💻 All of my projects are available at [https://euphonious-tiramisu-031113.netlify.app/](https://euphonious-tiramisu-031113.netlify.app/)
-
-- 💬 Ask me about **Html,Css,TailwindCss,JavaScript,Node.JS,Reac,Express.JS**
-
-- 📫 How to reach me **mdtoha084@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/n r toha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="n r toha" height="30" width="40" /></a>
-<a href="https://instagram.com/n.r._toha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="n.r._toha" height="30" width="40" /></a>
+<p align="center">
+I am a passionate Full Stack Developer who enjoys building modern, scalable and user-friendly web applications.  
+I love turning ideas into real-world web applications using modern technologies.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=toha007&theme=algolia&no-frame=true&row=1&column=6" />
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=toha007&show_icons=true&locale=en&layout=compact" alt="toha007" /></p>
+---
+
+### 🚀 About Me
+
+- 💻 Full Stack Developer (MERN Stack)
+- 🌱 Currently learning **Next.js & TypeScript**
+- 🔧 Experienced in building **Full Stack Applications with Authentication, CRUD Operations, APIs, and Stripe Payment Integration**
+- 🧠 Always improving my **problem solving and system design skills**
+- 👨‍💻 Portfolio Website  
+  👉 https://euphonious-tiramisu-031113.netlify.app/
+
+---
+
+### 📫 Contact Me
+
+- 📧 Email: **mdtoha084@gmail.com**
+
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
+<a href="https://facebook.com/n r toha" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+</a>
+
+<a href="https://instagram.com/n.r._toha" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+</a>
+</p>
+
+---
+
+# 🛠 Tech Stack
+
+### Frontend
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
+</p>
+
+### Backend
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40"/>
+</p>
+
+### Database
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+</p>
+
+### Tools & Platforms
+<p align="left">
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="40" height="40"/>
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=toha007&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toha007&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# ⭐ What I Build
+
+✔ Full Stack Web Applications  
+✔ Authentication Systems  
+✔ CRUD based platforms  
+✔ Stripe Payment Integration  
+✔ Responsive UI/UX Design  
+✔ REST APIs with Node.js & Express  
+
+---
+
+<p align="center">
+⭐ From <b>Toha</b> – Building modern web experiences
+</p>

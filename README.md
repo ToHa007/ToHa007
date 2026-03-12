@@ -1,16 +1,17 @@
-<h1 align="center">Hi 👋, I'm MD. Nimur Rahaman Toha</h1>
-<h3 align="center">Full Stack Web Developer | MERN Stack Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm MD. Nimur Rahaman Toha 🚀</h1>
+<h3 align="center">💻 Full Stack Web Developer | 🎓 CSE Student at North South University</h3>
 
 <p align="center">
-Passionate Full Stack Developer who enjoys building modern, scalable and user-friendly web applications using the MERN stack.
-I love transforming ideas into real-world applications and continuously learning new technologies.
+Passionate Full Stack Developer who enjoys building modern, scalable and user-friendly web applications using the MERN stack.  
+I love transforming ideas into real-world applications and continuously learning new technologies. ⚡
 </p>
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-- 💻 Full Stack Developer (MERN Stack)
+- 🎓 **Student:** North South University (CSE) – 2nd Semester  
+- 💻 **Designation:** Full Stack Web Developer (MERN Stack)  
 - 🌱 Currently learning **Next.js & TypeScript**
 - 🔧 Built multiple **Full Stack Applications with Authentication, CRUD Operations, APIs, and Stripe Payment Integration**
 - 👨‍💻 Portfolio Website  
@@ -18,13 +19,14 @@ I love transforming ideas into real-world applications and continuously learning
 
 ---
 
-### 📫 Contact Me
+## 📫 Contact Information
 
-- 📧 Email: **mdtoha084@gmail.com**
+- 📧 **Email:** mdtoha084@gmail.com  
+- 📍 **Address:** Bashundhara Residential Area, I Block, Dhaka, Bangladesh
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="left">
 
@@ -42,7 +44,7 @@ I love transforming ideas into real-world applications and continuously learning
 
 # 🛠 Tech Stack
 
-### Frontend
+### 🎨 Frontend
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
@@ -52,18 +54,18 @@ I love transforming ideas into real-world applications and continuously learning
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
 </p>
 
-### Backend
+### ⚙ Backend
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="80" height="40"/>
 </p>
 
-### Database
+### 🗄 Database
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
 </p>
 
-### Tools & Platforms
+### 🧰 Tools & Platforms
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
@@ -73,7 +75,7 @@ I love transforming ideas into real-world applications and continuously learning
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Stats 📈
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=toha007&show_icons=true&theme=tokyonight" />
@@ -97,5 +99,5 @@ I love transforming ideas into real-world applications and continuously learning
 ---
 
 <p align="center">
-⭐ Building modern web experiences
+⭐ Building modern web experiences | Always learning new technologies 🚀
 </p>

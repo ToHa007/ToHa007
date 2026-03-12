@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MD. Nimur Rahaman Toha 🚀</h1>
-<h3 align="center">💻 Full Stack Web Developer | 🎓 CSE Student at North South University</h3>
+<h3 align="center">💻 Full Stack Web Developer </h3>
 
 <p align="center">
 Passionate Full Stack Developer who enjoys building modern, scalable and user-friendly web applications using the MERN stack.  
